@@ -1,0 +1,9 @@
+streamlit
+langchain
+weaviate-client
+pypdf
+pandas
+python-dotenv
+sentence-transformers
+langchain_mistralai
+langchain_community
